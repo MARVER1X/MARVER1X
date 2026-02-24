@@ -26,7 +26,11 @@
 
 ---
 
+---
+
 ### 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MARVER1X&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&text_color=ffffff&icon_color=ff7300&title_color=ff7300" alt="MARVER1X's GitHub stats" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MARVER1X&show_icons=true&hide_border=true&bg_color=0f172a&title_color=ff7300&text_color=ffffff&icon_color=ff7300" height="165" alt="MARVER1X's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARVER1X&layout=compact&hide_border=true&bg_color=0f172a&title_color=ff7300&text_color=ffffff" height="165" alt="MARVER1X's Top Languages" />
+</div>>
