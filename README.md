@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Marvellous Godwin 👋</h1>
+<h3 align="center">Frontend Developer | Dev in Motion | Problem Solver</h3>
 
-<!--
-**MARVER1X/MARVER1X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build scalable web logic, dynamic UI architectures, and seamless API integrations. When I'm not writing code, I'm exploring game development or training in calisthenics. I believe the discipline required for fitness translates directly into writing clean, maintainable, and efficient code.
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/godwin-marvellous-52951722b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Architecture
+- **Frontend & UI:** React, Vanilla JavaScript (ES6+), HTML5, CSS3, Responsive Design
+- **Backend & Data:** Python, SQL, RESTful APIs, Webhooks (Google Apps Script)
+- **Core Engineering:** DOM Manipulation, State Management, Git Version Control, Cross-Origin Resource Sharing (CORS) handling
+
+### 🚀 Featured Architectures
+* **[Auth-Webhook-Simulation](https://github.com/MARVER1X/Auth-Webhook-Simulation):** A cloud-native webhook API integration designed for seamless cross-origin frontend-to-backend data pipelines.
+* **[E-Commerce-Cart-JS](https://github.com/MARVER1X/E-Commerce-Cart-JS):** A dynamic, state-managed e-commerce storefront built entirely with Vanilla JavaScript.
+* **[Python-SQL-Data-Logger](https://github.com/MARVER1X/Python-SQL-Data-Logger):** A database-integrated backend application that processes logic, manages authentication, and logs sessions to MySQL.
+* **[Fly-Kings-Flight-Booking](https://github.com/MARVER1X/Fly-Kings-Flight-Booking):** An early-stage flight search MVP structured to handle complex search queries and scalable UI rendering.
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MARVER1X&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&text_color=ffffff&icon_color=ff7300&title_color=ff7300" alt="MARVER1X's GitHub stats" />
+</p>
