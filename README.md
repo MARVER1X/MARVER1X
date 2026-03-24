@@ -22,7 +22,7 @@
 - **Engineering Fundamentals:** Git Version Control, JSON, Linux (Learning)
 
 ### 🚀 Featured Architectures
-* **[neural-forge](https://github.com/MARVER1X/neural-forge):** *(In Progress)* Building a neural network from scratch in pure Python. Zero libraries, zero abstractions. Focus on understanding ML physics.
+* **[neural-forge](https://github.com/MARVER1X/neural-forge):** Building a neural network from scratch in pure Python. Zero libraries, zero abstractions. Focus on understanding ML physics.
 * **[Python-SQL-Data-Logger](https://github.com/MARVER1X/Python-SQL-Data-Logger):** A database-integrated backend application for processing authentication logic and logging sessions to MySQL.
 * **[Auth-Webhook-Simulation](https://github.com/MARVER1X/Auth-Webhook-Simulation):** A cloud-native webhook API integration designed for secure cross-origin (CORS) data pipelines.
 * **[E-Commerce-Cart-JS](https://github.com/MARVER1X/E-Commerce-Cart-JS):** A dynamic, state-managed engine demonstrating client-side logic and persistence without frameworks.
