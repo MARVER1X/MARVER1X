@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Marvellous Godwin 👋</h1>
-<h3 align="center">Full Stack Developer | React, Python & FastAPI | CS @ LASU</h3>
+<h3 align="center">Full Stack Developer | React, Python & FastAPI</h3>
 
 <p align="center">
   I build digital solutions that optimize workflows and deliver seamless user experiences. 
@@ -26,7 +26,7 @@
 - **Engineering Fundamentals:** Git Version Control, JSON, Linux
 
 ### 🚀 Featured Architectures
-* 📊 **[Responsive-Invoice-App](https://github.com/MARVER1X/hng-fe-stage2-invoice-app):** A fully responsive, pixel-perfect Invoice Management System. Features complete CRUD functionality, custom UI components, dark mode, and local storage data persistence.
+* 📊 **[Responsive-Invoice-App](https://github.com/MARVER1X/HNG-FrontEnd-Track):** A fully responsive, pixel-perfect Invoice Management System. Features complete CRUD functionality, custom UI components, dark mode, and local storage data persistence.
 * 🧠 **[neural-forge](https://github.com/MARVER1X/neural-forge):** Building a neural network from scratch in pure Python. Zero libraries, zero abstractions. Focus on understanding ML physics.
 * 🔐 **[Python-SQL-Data-Logger](https://github.com/MARVER1X/Python-SQL-Data-Logger):** A database-integrated backend application for processing authentication logic and logging sessions to MySQL.
 * ⚡ **[Auth-Webhook-Simulation](https://github.com/MARVER1X/Auth-Webhook-Simulation):** A cloud-native webhook API integration designed for secure cross-origin (CORS) data pipelines.
@@ -34,7 +34,6 @@
 ---
 
 ### 📍 Player Stats
-- 🎓 **Education:** Computer Science Undergrad at Lagos State University (2024 - 2028).
 - 🔧 **Trajectory:** Actively bridging Full Stack capabilities with deep AI system integrations.
 - 🎮 **Interests:** Exploring game engine development, graphics programming, and technical Redstone logic.
 - 🏋️ **Conditioning:** Calisthenics athlete — training for discipline and performance.
