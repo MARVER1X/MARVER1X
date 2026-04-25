@@ -26,7 +26,7 @@
 - **Engineering Fundamentals:** Git Version Control, JSON, Linux
 
 ### 🚀 Featured Architectures
-* 📊 **[Responsive-Invoice-App](https://github.com/MARVER1X/HNG-FrontEnd-Track):** A fully responsive, pixel-perfect Invoice Management System. Features complete CRUD functionality, custom UI components, dark mode, and local storage data persistence.
+* 📊 **[Responsive-Invoice-App](https://github.com/MARVER1X/hng-fe-stage2-invoice-app):** A fully responsive, pixel-perfect Invoice Management System. Features complete CRUD functionality, custom UI components, dark mode, and local storage data persistence.
 * 🧠 **[neural-forge](https://github.com/MARVER1X/neural-forge):** Building a neural network from scratch in pure Python. Zero libraries, zero abstractions. Focus on understanding ML physics.
 * 🔐 **[Python-SQL-Data-Logger](https://github.com/MARVER1X/Python-SQL-Data-Logger):** A database-integrated backend application for processing authentication logic and logging sessions to MySQL.
 * ⚡ **[Auth-Webhook-Simulation](https://github.com/MARVER1X/Auth-Webhook-Simulation):** A cloud-native webhook API integration designed for secure cross-origin (CORS) data pipelines.
