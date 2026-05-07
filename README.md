@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/godwin-marvellous-52951722b">
+  <a href="https://www.linkedin.com/in/marvellous-godwin-52951722b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/Marver1x">
