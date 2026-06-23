@@ -1,58 +1,31 @@
-<h1 align="center">Hi there, I'm Marvellous Godwin 👋</h1>
-<h3 align="center">Full Stack Developer | Python, React & FastAPI</h3>
+# Marvellous Godwin
 
-<p align="center">
-  I build and experiment with web applications and backend systems using Python and JavaScript. 
-  I work on APIs, backend logic, and frontend interfaces in full-stack applications. 
-  I enjoy learning by building, breaking, and improving systems over time.
-</p>
+Python backend engineer building systems that collect, process, and turn raw data into intelligence.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/marvellous-godwin-52951722b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/Marver1x">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge"/>
-  </a>
-
-</div>
+Current focus: data pipelines, automation tools, FastAPI APIs, and AI-integrated backend infrastructure.
 
 ---
 
-### 🛠️ Tech Stack
+## Featured Projects
 
-- **Backend & APIs:** Python, FastAPI, SQL (MySQL/SQLite), REST APIs
+**[Insighta](https://github.com/MARVER1X/insighta-api)** — FastAPI backend with PKCE-validated GitHub OAuth, auto-refresh token middleware, and role-based access control. Ships with a globally-installable Python CLI and a React portal.
+→ [API](https://github.com/MARVER1X/insighta-api) · [CLI](https://github.com/MARVER1X/insighta-cli) · [Portal](https://github.com/MARVER1X/insighta-portal)
 
-- **Frontend:** React.js, JavaScript (ES6+), TypeScript 
+**[NLP Query Engine](https://github.com/MARVER1X/hng-be-stage-2-profiles-intelligence-api)** — Rule-based NLP parser (zero AI) that converts plain English into complex database filters. FastAPI + SQLite.
 
-- **Tools & Fundamentals:** Git, JSON, Linux  
-
----
-
-### 📍 Focus Areas
-
-- Building backend APIs and system design fundamentals
-
-- Exploring how data flows through full-stack applications
-
-- Improving problem-solving and software engineering foundations
+**[Neural Forge](https://github.com/MARVER1X/neural-forge)** — Neural network built from scratch in pure Python. No libraries, no abstractions. Built to understand ML mechanics at the foundational level.
 
 ---
 
-<div align="center">
+## Stack
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+**Backend:** Python · FastAPI · SQLite · MySQL · REST APIs  
+**Frontend:** React · JavaScript (ES6+) · TypeScript  
+**Auth:** OAuth 2.0 · PKCE · JWT · RBAC  
+**Tools:** Git · Linux  
 
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+---
 
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+## Contact
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-</div>
-
-<p align="center">
-  <a href="mailto:godwinmarvellous691@gmail.com">Contact: godwinmarvellous691@gmail.com</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/marvellous-godwin-52951722b) · [X](https://x.com/Marver1x) · godwinmarvellous691@gmail.com
